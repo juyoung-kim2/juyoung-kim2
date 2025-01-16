@@ -50,6 +50,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyoung-kim2)](https://github.com/juyoung-kim2/github-readme-stats)
 
-<br><br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyoung-kim2)](https://github.com/juyoung-kim2/github-readme-stats)
