@@ -1,7 +1,7 @@
 <div>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=ffd166&fontColor=000000&fontAlignY=45&height=300&section=header&text=Hello%20%20I'm%20Juyoung&fontSize=60&animation=twinkling&desc=JUYOUNG's%20Github%20%20📂&descSize=26&descAlign=65&descAlignY=66" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffd166&fontColor=000000&fontAlignY=45&height=220&section=header&text=Hello%20%20I'm%20Juyoung&fontSize=60&animation=twinkling&desc=JUYOUNG's%20Github%20%20📂&descSize=26&descAlign=65&descAlignY=66" />
 </div>
-
+<br><br>
 <!--내용 부분-->
 <h3>✨ Tech Stack ✨</h3>
 <div>
