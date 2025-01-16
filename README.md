@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
-<br>
+<br><br>
 
 
 <!--h3 align="center">📫 Contact 📫</h3>
@@ -49,4 +49,7 @@
   </a-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyoung-kim2)](https://github.com/juyoung-kim2/github-readme-stats)
+
+<br><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyoung-kim2)](https://github.com/juyoung-kim2/github-readme-stats)
