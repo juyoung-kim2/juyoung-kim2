@@ -48,7 +48,7 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyoung-kim2)](https://github.com/juyoung-kim2/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyoung-kim2)](https://github.com/juyoung-kim2/github-readme-stats)-->
 
 <br>
 
