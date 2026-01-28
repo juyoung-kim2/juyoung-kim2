@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://juyoung-kim2.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+   <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=vercel&logoColor=000000">
   </a>
 </p>
 
