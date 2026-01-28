@@ -3,6 +3,13 @@
 </div>
 <br><br>
 <!--내용 부분-->
+
+<p align="center">
+  <a href="https://juyoung-kim2.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 <h3>✨ Frontend ✨</h3>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
