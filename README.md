@@ -5,7 +5,11 @@
 <!--내용 부분-->
 
 <p>
-<a href="https://juyoung-kim2.github.io/portfolio/" style="background:#E8C66A; color:#000; padding:12px; dispaly:block">🔗 Portfolio</a>
+<a href="https://juyoung-kim2.github.io/portfolio/">
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/link.png" width="20"/>
+  Portfolio
+</a>
+
 </p>
 
 <h3>✨ Frontend ✨</h3>
