@@ -5,9 +5,7 @@
 <!--내용 부분-->
 
 <p>
-  🔗<a href="https://juyoung-kim2.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-E8C66A?style=for-the-badge&logoColor=white">
-  </a>
+<a href="https://juyoung-kim2.github.io/portfolio/" style="background:#E8C66A; color:#000; padding:12px; dispaly:block">🔗 Portfolio</a>
 </p>
 
 <h3>✨ Frontend ✨</h3>
