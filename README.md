@@ -5,9 +5,9 @@
 <!--내용 부분-->
 
 <p>
-<p align="center">
+<p>
   <a href="https://juyoung-kim2.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-E8C66A?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-E8C66A?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 </p>
