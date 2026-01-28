@@ -14,8 +14,8 @@
 
 <br>
 
-<h3 align="center">🍀 UI/UX & Tools 🍀</h3>
-<div align="center">
+<h3>🍀 UI/UX & Tools 🍀</h3>
+<div>
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
