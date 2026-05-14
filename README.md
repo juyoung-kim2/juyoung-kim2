@@ -65,4 +65,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyoung-kim2&layout=compact&theme=vision-friendly-dark" />
 
 <!-- GitHub Stats 전체 통계 카드 -->
-<img src="https://github-readme-stats.vercel.app/api?username=내아이디&show_icons=true&theme=vision-friendly-dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=juyoung-kim2&show_icons=true&theme=vision-friendly-dark" />
