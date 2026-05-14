@@ -27,6 +27,7 @@
 <h3>🍀 UI/UX & Tools 🍀</h3>
 <div>
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
@@ -60,5 +61,8 @@
 
 
 <br>
+<!-- Most Used Languages 카드 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyoung-kim2&layout=compact&theme=vision-friendly-dark" />
 
-
+<!-- GitHub Stats 전체 통계 카드 -->
+<img src="https://github-readme-stats.vercel.app/api?username=내아이디&show_icons=true&theme=vision-friendly-dark" />
