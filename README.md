@@ -62,7 +62,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyoung-kim2&layout=compact&theme=vision-friendly-dark&cache_seconds=1800" />
+<img src="https://github-readme-stats-git-masterrstheme-anuraghazra.vercel.app/api/top-langs/?username=juyoung-kim2&layout=compact&theme=vision-friendly-dark" />
 
 <!-- GitHub Stats 전체 통계 카드 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juyoung-kim2&theme=vision-friendly-dark" />
